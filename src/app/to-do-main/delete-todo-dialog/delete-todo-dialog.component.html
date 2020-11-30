@@ -1,0 +1,8 @@
+<h1 mat-dialog-title>Confirm Dialog</h1>
+<div mat-dialog-content>
+  <p>Are you sure you want to delete ToDo with title "{{data.todo.title}}"</p>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onConfirm()">Yes</button>
+  <button mat-button (click)="onReject()" >No</button>
+</div>
