@@ -1,3 +1,11 @@
+## Preview the project
+
+To preview project go to https://liubalozynska.github.io/angular-to-do-list/
+
+A simple to do app styled with Material Design. You can add and Delete ToDo. For conveniance todos list is stored in LocalStorage. 
+
+
+
 # ToDoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
